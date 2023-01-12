@@ -1,0 +1,6 @@
+name: SimpleLeash
+version: '${project.version}'
+main: adhdmc.simpleleash.SimpleLeash
+api-version: 1.19
+authors: [ Rhythmic, Peashooter101 ]
+description: Adding mobs that can't be leashed, to be leashed.
